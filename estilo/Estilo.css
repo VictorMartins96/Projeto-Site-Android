@@ -55,6 +55,7 @@ header > p {
 img {
     display: block;
     margin: auto;
+    max-width: 350px;
 }
 nav {
     background-color: var(--cor5);
